@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Estudiante+de+DAW;Apasionado+de+la+tecnolog%C3%ADa;Resolutivo+y+orientado+a+equipo;Con+ganas+de+seguir+aprendiendo" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="mailto:corraal15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iv%C3%A1n-s%C3%A1nchez-corral-8298a939a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/34609876484"><img src="https://img.shields.io/badge/Tel%C3%A9fono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
 **[Contactar por WhatsApp](https://wa.me/34609876484)** 
 
 ---
