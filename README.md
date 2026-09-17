@@ -89,9 +89,3 @@ Aunque actualmente me centro en mi carrera tecnológica, cuento con experiencia 
 - **Inglés:** B2 (Título de Especialización de Cambridge)
 
 ---
-
-
-<p align="center">
-  📫 Contacto: <a href="mailto:corraal15@gmail.com">corraal15@gmail.com</a> ·
-  📞 609 876 484
-</p>
