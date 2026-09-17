@@ -71,9 +71,6 @@ Aunque actualmente me centro en mi carrera tecnológica, cuento con experiencia 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxte&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   📫 Contacto: <a href="mailto:corraal15@gmail.com">corraal15@gmail.com</a> ·
