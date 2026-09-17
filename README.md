@@ -12,8 +12,6 @@
   <a href="https://wa.me/34609876484"><img src="https://img.shields.io/badge/Tel%C3%A9fono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-[Escríbeme por WhatsApp](https://wa.me/34609876484?text=Hola,%20tengo%20una%20duda%20sobre%20tu%20proyecto)
-
 ---
 
 ### 🙋‍♂️ Sobre mí
