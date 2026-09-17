@@ -56,6 +56,14 @@ Tengo 19 años y soy un apasionado de la informática y la tecnología. Actualme
 - 🚙 Vehículo propio
 
 ---
+ 
+### 📌 Proyectos destacados
+ 
+- **[BatallaPokemonCompleta](https://github.com/corraal15/BatallaPokemonCompleta)** *(Individual)* — Simulador de combate Pokémon por turnos desarrollado en Java. Incluye gestión de estadísticas (HP, MP, defensa), sistema de daño, inventario de objetos y menú interactivo por consola. `Java`
+- **[carreras-grupo5](https://github.com/sergiolandeira777/carreras-grupo5)** *(Grupal)* — Simulación de una competición de Fórmula 1 en Java aplicando Programación Orientada a Objetos: clases como `Coche`, `Piloto`, `Circuito`, `Carrera` y `Competición`, con cálculo de clasificaciones por pilotos y por escuderías. `Java`
+- **[hundirFlota](https://github.com/Ikeer3/hundirFlota)** *(Grupal)* — Implementación del clásico juego "Hundir la Flota" contra una CPU, trabajando arrays bidimensionales, bucles, condicionales y entrada/salida de datos por consola. `Java`
+  
+---
 
 ### 💼 Experiencia laboral
 
