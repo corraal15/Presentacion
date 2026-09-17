@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Estudiante+de+DAW;Apasionado+de+la+tecnolog%C3%ADa;Resolutivo+y+orientado+a+equipo;Con+ganas+de+seguir+aprendiendo" alt="Typing SVG" />
 </p>
-
+[Contactar por WhatsApp](https://wa.me/34609876484)
 ---
 
 ### 🙋‍♂️ Sobre mí
