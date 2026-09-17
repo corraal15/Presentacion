@@ -10,7 +10,7 @@
 
 ### 🙋‍♂️ Sobre mí
 
-Tengo 19 años y soy un apasionado de la informática y la tecnología. Actualmente me estoy formando como desarrollador web y ampliando mis conocimientos en programación. Me considero una persona responsable, con gran capacidad para la resolución de problemas (*problem-solving*) y el trabajo en equipo.
+Tengo 19 años y soy un apasionado de la informática y la tecnología. Actualmente me estoy formando como desarrollador web y ampliando mis conocimientos en programación.
 
 ---
 
