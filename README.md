@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Iván Sánchez 👋</h1>
+<h1 align="center">¡Hola! Soy Iván Sánchez </h1>
 
 <h3 align="center">Técnico Informático | Estudiante de Desarrollo de Aplicaciones Web (DAW) 🇪🇸</h3>
 
