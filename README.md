@@ -35,7 +35,6 @@ Tengo 19 años y soy un apasionado de la informática y la tecnología. Actualme
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-**Diseño UI/UX:** Figma
 
 ---
 
