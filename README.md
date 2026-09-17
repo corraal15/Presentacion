@@ -56,7 +56,7 @@ Tengo 19 años y soy un apasionado de la informática y la tecnología. Actualme
 
 Aunque actualmente me centro en mi carrera tecnológica, cuento con experiencia previa que me ha ayudado a desarrollar mis habilidades interpersonales y mi responsabilidad laboral:
 
-- **Operario de Montaje y Desmontaje** *(06/2026 - 09/2026)*
+- **Operario de Montaje y Desmontaje** — A Coruña *(06/2026 - 09/2026)*
 - **Especialista en Control de Accesos (VIP y Prensa)** — A Coruña *(2025 - 2026)*
 - **Dependiente de Pescadería** — Carral, A Coruña *(06/2024 - 09/2024)*
 
